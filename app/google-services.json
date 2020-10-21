@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148523876558",
+    "firebase_url": "https://familyloc-ce43e.firebaseio.com",
+    "project_id": "familyloc-ce43e",
+    "storage_bucket": "familyloc-ce43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148523876558:android:ca786a33dbbe106a71509f",
+        "android_client_info": {
+          "package_name": "com.example.familyloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148523876558-mlc13ffnhgqvtk4lbf1loij5378ml1iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5XpVKdNMjEIqifYkmPgoQDUxytYwJFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148523876558-mlc13ffnhgqvtk4lbf1loij5378ml1iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
